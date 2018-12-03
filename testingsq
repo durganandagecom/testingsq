@@ -1,0 +1,4 @@
+begin   
+        AD_ZD.grant_privs('SELECT','CST_COST_TYPES_V','GEMS_GL');       
+        End;    
+        /
